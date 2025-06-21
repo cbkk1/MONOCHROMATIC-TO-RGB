@@ -12,7 +12,7 @@
 ```
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 **MONOCHROMATIC-TO-RGB** is a web application built with Flask that:
 
