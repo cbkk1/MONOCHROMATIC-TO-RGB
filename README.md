@@ -168,19 +168,19 @@ MONOCHROMATIC-TO-RGB/
 
 Developed as final-year B.Tech project under VTU & Alva's Institute of Engineering and Technology.
 
-| Name               | Role                          | Email                      | Contact        |
+| Name-------------------| Role--------------------------| Email----------------------| Contact--------|
 
-|--------------------|-------------------------------|----------------------------|----------------|
+|------------------------|-------------------------------| ---------------------------|----------------|
 
-| Anooj Raj          |----------HIDDEN---------------| anoojraj07@gmail.com       |-----HIDDEN-----|
+| Anooj Raj--------------|----------HIDDEN---------------| anoojraj07@gmail.com-------|-----HIDDEN-----|
 
-| Ashik H. R.        |----------HIDDEN---------------| hra72020@gmail.com         |-----HIDDEN-----|
+| Ashik H. R.------------|----------HIDDEN---------------| hra72020@gmail.com---------|-----HIDDEN-----|
 
-| Chetan M. Wali     |----------HIDDEN---------------| chetanwali2001@gmail.com   |-----HIDDEN-----|
+| Chetan M. Wali---------|----------HIDDEN---------------| chetanwali2001@gmail.com---|-----HIDDEN-----|
 
-| Chinmaya Bhat K. K.|----------HIDDEN---------------| cs24s501@iittp.com         | +91-98958-07455 |
+| Chinmaya Bhat K. K.----|----------HIDDEN---------------| cs24s501@iittp.com---------| +91-98958-07455 |
 
-| Dr. Vasudev S. Shahapur | Guide & Advisor          | vasu.shahapur@aiet.org.in  | +91-94495-86008 |
+| Dr. Vasudev S. Shahapur| Guide & Advisor----------| vasu.shahapur@aiet.org.in--| +91-94495-86008 |
 
 ---
 
