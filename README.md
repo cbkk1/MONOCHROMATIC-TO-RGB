@@ -1,99 +1,202 @@
-MONOCHROMATIC-TO-RGB
-A Flask-based B.Tech project that converts monochromatic images to full RGB color.
+```markdown
 
-TABLE OF CONTENTS
+# MONOCHROMATIC-TO-RGB
 
-Project Overview
+> A Flask-based B.Tech project that converts monochrome images to full RGB color.
 
-Demo
+![Project Banner](https://via.placeholder.com/800x200?text=Monochromatic+to+RGB+Colorization) <!-- Replace with your actual banner image URL -->
 
-Installation
+## 📋 Table of Contents
 
-Usage
+1. [Project Overview](#-project-overview)
 
-Requirements
+2. [Demo](#-demo)
 
-Project Structure
+3. [Installation](#%EF%B8%8F-installation)
 
-Contributing & Team
+4. [Usage](#%EF%B8%8F-usage)
 
-Contact
+5. [Requirements](#-requirements)
 
-PROJECT OVERVIEW
-MONOCHROMATIC-TO-RGB is a web application built with Flask that takes a single-channel (monochrome) image as input, processes it through a colorization pipeline, and returns a fully colorized RGB image. Processing progress is logged in the terminal; once complete, the result is displayed in your browser.
+6. [Project Structure](#-project-structure)
 
-DEMO
+7. [Contributing & Team](#-contributing--team)
 
-Start the server:
+8. [Contact](#-contact)
+
+---
+
+## 🚀 Project Overview
+
+**MONOCHROMATIC-TO-RGB** is a web application built with Flask that:
+
+- Accepts single-channel (monochrome) images
+
+- Processes them through a colorization pipeline
+
+- Returns fully colorized RGB images
+
+- Shows real-time processing progress in terminal
+
+- Displays results directly in the browser
+
+---
+
+## 🎬 Demo
+
+1. **Start the server**:
+
+```bash
+
 python3 app.py
 
-In your browser, open the URL printed in the terminal (e.g. http://127.0.0.1:5000/).
+```
 
-Upload a monochrome image.
+2. Open the URL shown in terminal (e.g. `http://127.0.0.1:5000/`)
 
-Watch the terminal for processing progress (percentage).
+3. Upload a monochrome image
 
-View your colorized image in the browser.
+4. Monitor terminal for processing progress (%)
 
-If an error occurs, a default placeholder image is shown; error details will appear in the terminal.
+5. View colorized result in browser
 
-INSTALLATION
+> 💡 *Note: If errors occur, a placeholder image is shown with detailed errors in terminal*
 
-Clone this repository
+---
+
+## ⚙️ Installation
+
+1. Clone repository:
+
+```bash
+
 git clone https://github.com/cbkk1/MONOCHROMATIC-TO-RGB.git
+
 cd MONOCHROMATIC-TO-RGB
 
-Create & activate a virtual environment (strongly recommended)
+```
+
+2. Create & activate virtual environment:
+
+```bash
+
 python3 -m venv venv
-source venv/bin/activate
 
-Install dependencies
+source venv/bin/activate  # Linux/Mac
+
+venv\Scripts\activate    # Windows
+
+```
+
+3. Install dependencies:
+
+```bash
+
 pip install -r requirements.txt
 
-USAGE
-With your virtual environment activated:
+```
+
+---
+
+## ▶️ Usage
+
+1. Start Flask server:
+
+```bash
+
 python3 app.py
-– Open the printed http://127.0.0.1:5000/ in a browser.
-– Upload your monochrome image.
-– Wait for processing to complete (progress shown in terminal).
-– View or download the resulting RGB image.
 
-REQUIREMENTS
-All Python dependencies are listed in requirements.txt. Key libraries include:
-• Flask – Web framework
-• Matplotlib – Image I/O and visualization
-• IPython – Interactive debugging & notebooks
-• Torch (optional) – If you’re using a neural-based colorization model
-• Other image-processing utilities
+```
 
-Install via:
+2. Visit `http://localhost:5000` in browser
+
+3. Upload monochrome image via web interface
+
+4. Wait for processing (terminal shows progress)
+
+5. Download/view colorized result
+
+---
+
+## 📦 Requirements
+
+Core dependencies (see `requirements.txt` for full list):
+
+- Flask (Web framework)
+
+- Matplotlib (Image I/O)
+
+- Torch (Neural network backend)
+
+- OpenCV (Image processing)
+
+- NumPy (Numerical operations)
+
+Install all requirements:
+
+```bash
+
 pip install -r requirements.txt
 
-PROJECT STRUCTURE
+```
+
+---
+
+## 🗂 Project Structure
+
+```
+
 MONOCHROMATIC-TO-RGB/
-├── app.py Flask application entry point
-├── static/ Static files (CSS, JS, default images)
-├── templates/ HTML templates
-├── models/ (Optional) Pretrained colorization models
-├── requirements.txt Python dependencies
-└── README.txt This file
 
-CONTRIBUTING & TEAM
-This project was developed as a B.Tech final-year project under VTU and Alva’s Institute of Engineering and Technology.
+├── app.py              # Flask application entry point
 
-Name	Role	Email	Contact
-Anooj Raj	Lead Developer	anoojraj07@gmail.com	+91-81518-25515
-Ashik H. R.	Backend & Model Integration	hra72020@gmail.com	+91-97311-793195
-Chetan M. Wali	Frontend & UI Design	chetanwali2001@gmail.com	+91-63638-85750
-Chinmaya Bhat K. K.	Project Coordinator	chinmayabhatkk@gmail.com	+91-98958-07455
-Dr. Vasudev S. Shahapur	Guide & Advisor	vasu.shahapur@aiet.org.in	+91-94495-86008
+├── static/             # CSS, JS, default images
 
-CONTACT
-For questions or contributions, feel free to open an issue or reach out to any of the project associates listed above.
+├── templates/          # HTML templates
 
-Thank you for using MONOCHROMATIC-TO-RGB! 🎨✨
+├── models/             # Pretrained colorization models
 
+├── requirements.txt    # Python dependencies
 
+└── README.md           # Project documentation
 
+```
 
+---
+
+## 🤝 Contributing & Team
+
+Developed as final-year B.Tech project under VTU & Alva's Institute of Engineering and Technology.
+
+| Name               | Role                          | Email                      | Contact        |
+
+|--------------------|-------------------------------|----------------------------|----------------|
+
+| Anooj Raj          | Lead Developer                | anoojraj07@gmail.com       | +91-81518-25515 |
+
+| Ashik H. R.        | Backend & Model Integration   | hra72020@gmail.com         | +91-97311-793195 |
+
+| Chetan M. Wali     | Frontend & UI Design          | chetanwali2001@gmail.com   | +91-63638-85750 |
+
+| Chinmaya Bhat K. K.| Project Coordinator           | chinmayabhatkk@gmail.com   | +91-98958-07455 |
+
+| Dr. Vasudev S. Shahapur | Guide & Advisor          | vasu.shahapur@aiet.org.in  | +91-94495-86008 |
+
+---
+
+## 📞 Contact
+
+For questions or contributions:
+
+- Open a [GitHub Issue](https://github.com/cbkk1/MONOCHROMATIC-TO-RGB/issues)
+
+- Email project coordinator: chinmayabhatkk@gmail.com
+
+- Contact any team member directly
+
+---
+
+*Thank you for using MONOCHROMATIC-TO-RGB! 🎨✨*
+
+```
 
