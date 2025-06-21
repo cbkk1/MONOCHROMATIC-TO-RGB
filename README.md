@@ -1,8 +1,8 @@
 ```markdown
 # MONOCHROMATIC-TO-RGB
 ##  Table of Contents
-1. [Project Overview](#project-overview)
-2. [Demo](#demo)
+1. [Project Overview](#-project-overview)
+2. [Demo](#-demo)
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Requirements](#requirements)
