@@ -4,21 +4,14 @@
 
 ## 📋 Table of Contents
 
-1. [Project Overview](#-project-overview)
-
-2. [Demo](#-demo)
-
-3. [Installation](#%EF%B8%8F-installation)
-
-4. [Usage](#%EF%B8%8F-usage)
-
-5. [Requirements](#-requirements)
-
-6. [Project Structure](#-project-structure)
-
-7. [Contributing & Team](#-contributing--team)
-
-8. [Contact](#-contact)
+1. [Project Overview](#project-overview)
+2. [Demo](#demo)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Requirements](#requirements)
+6. [Project Structure](#project-structure)
+7. [Contributing & Team](#contributing--team)
+8. [Contact](#contact)
 
 ---
 
