@@ -154,7 +154,7 @@ MONOCHROMATIC-TO-RGB/
 ```
 
 ---
-
+```
 ## 🤝 Contributing & Team
 
 Developed as project under VTU & Alva's Institute of Engineering and Technology.
@@ -172,7 +172,7 @@ Developed as project under VTU & Alva's Institute of Engineering and Technology.
 |Chinmaya Bhat K. K.----|---------HIDDEN---------------|cs24s501@iittp.com---------|+91-98958-07455|
 
 |Dr. Vasudev S. Shahapur|Guide & Advisor---------------|vasu.shahapur@aiet.org.in--|+91-94495-86008|
-
+```
 ---
 
 ## 📞 Contact
