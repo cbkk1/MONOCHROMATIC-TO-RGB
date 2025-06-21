@@ -9,9 +9,10 @@
 6. [Project Structure](#project-structure)
 7. [Contributing & Team](#contributing--team)
 8. [Contact](#contact)
+```
 ---
 
-## 🚀 Project Overview
+##Project Overview
 
 **MONOCHROMATIC-TO-RGB** is a web application built with Flask that:
 
