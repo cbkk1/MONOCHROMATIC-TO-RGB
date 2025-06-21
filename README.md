@@ -180,7 +180,7 @@ For questions or contributions:
 - Contact any team member directly
 
 ---
-
+```
 *Thank you for using MONOCHROMATIC-TO-RGB! 🎨✨*
 
 ```
