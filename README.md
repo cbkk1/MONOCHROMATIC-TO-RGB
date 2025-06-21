@@ -1,7 +1,7 @@
 ```markdown
 # MONOCHROMATIC-TO-RGB
 ##  Table of Contents
-1. [Project Overview](#-project-overview)
+1. [Project Overview]([#-project-overview](https://github.com/cbkk1/MONOCHROMATIC-TO-RGB/blob/main/README.md#%EF%B8%8F-installation))
 2. [Demo](#-demo)
 3. [Installation](#installation)
 4. [Usage](#usage)
