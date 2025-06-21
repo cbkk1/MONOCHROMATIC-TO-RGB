@@ -172,13 +172,13 @@ Developed as final-year B.Tech project under VTU & Alva's Institute of Engineeri
 
 |--------------------|-------------------------------|----------------------------|----------------|
 
-| Anooj Raj          | Lead Developer                | anoojraj07@gmail.com       | +91-81518-25515 |
+| Anooj Raj          |----------HIDDEN---------------| anoojraj07@gmail.com       |-----HIDDEN-----|
 
-| Ashik H. R.        | Backend & Model Integration   | hra72020@gmail.com         | +91-97311-793195 |
+| Ashik H. R.        |----------HIDDEN---------------| hra72020@gmail.com         |-----HIDDEN-----|
 
-| Chetan M. Wali     | Frontend & UI Design          | chetanwali2001@gmail.com   | +91-63638-85750 |
+| Chetan M. Wali     |----------HIDDEN---------------| chetanwali2001@gmail.com   |-----HIDDEN-----|
 
-| Chinmaya Bhat K. K.| Project Coordinator           | chinmayabhatkk@gmail.com   | +91-98958-07455 |
+| Chinmaya Bhat K. K.|----------HIDDEN---------------| cs24s501@iittp.com         | +91-98958-07455 |
 
 | Dr. Vasudev S. Shahapur | Guide & Advisor          | vasu.shahapur@aiet.org.in  | +91-94495-86008 |
 
@@ -190,7 +190,7 @@ For questions or contributions:
 
 - Open a [GitHub Issue](https://github.com/cbkk1/MONOCHROMATIC-TO-RGB/issues)
 
-- Email project coordinator: chinmayabhatkk@gmail.com
+- Email: cs24s501@iittp.com
 
 - Contact any team member directly
 
