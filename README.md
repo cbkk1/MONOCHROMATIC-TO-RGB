@@ -2,7 +2,7 @@
 
 # MONOCHROMATIC-TO-RGB
 
-## 📋 Table of Contents
+##  Table of Contents
 
 1. [Project Overview](#project-overview)
 2. [Demo](#demo)
