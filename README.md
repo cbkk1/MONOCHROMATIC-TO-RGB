@@ -2,8 +2,6 @@
 
 # MONOCHROMATIC-TO-RGB
 
-> A Flask-based B.Tech project that converts monochrome images to full RGB color.
-
 ## 📋 Table of Contents
 
 1. [Project Overview](#-project-overview)
