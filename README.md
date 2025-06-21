@@ -155,7 +155,7 @@ MONOCHROMATIC-TO-RGB/
 
 ## 🤝 Contributing & Team
 
-Developed as final-year B.Tech project under VTU & Alva's Institute of Engineering and Technology.
+Developed as project under VTU & Alva's Institute of Engineering and Technology.
 
 |Name-------------------|Role--------------------------|Email----------------------|Contact--------|
 
