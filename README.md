@@ -154,8 +154,9 @@ MONOCHROMATIC-TO-RGB/
 ```
 
 ---
-```
 ## 🤝 Contributing & Team
+```
+
 
 Developed as project under VTU & Alva's Institute of Engineering and Technology.
 
