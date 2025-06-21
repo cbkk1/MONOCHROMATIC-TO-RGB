@@ -1,9 +1,6 @@
 ```markdown
-
 # MONOCHROMATIC-TO-RGB
-
 ##  Table of Contents
-
 1. [Project Overview](#project-overview)
 2. [Demo](#demo)
 3. [Installation](#installation)
@@ -12,7 +9,6 @@
 6. [Project Structure](#project-structure)
 7. [Contributing & Team](#contributing--team)
 8. [Contact](#contact)
-
 ---
 
 ## 🚀 Project Overview
